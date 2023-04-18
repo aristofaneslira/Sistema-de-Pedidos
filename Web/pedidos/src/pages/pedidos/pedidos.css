@@ -1,0 +1,6 @@
+.form-pedido select{
+    border: 0px;
+    background-color: #fff;
+    height: 35px;
+    cursor: pointer;
+}
